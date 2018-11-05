@@ -61,10 +61,15 @@
 	height: 100%;
 }
 .indexbanner{
-	width: 100%; position: relative;
+	/* width: 100%;
 	overflow: hidden;
+	margin: auto; */
+	margin: auto;
+    width: 60%;
+    border: 3px solid rgb(255, 255, 255);
+    padding: 10px;
 }
-.indexbanner>div{
+/* .indexbanner>div{
 	position:absolute; 
 	color: #fff;   
 	top: 50%;
@@ -83,8 +88,8 @@
 	font-size: 23px; font-style: italic;
 }
 .indexbanner img{
-	width: 100%;
-}
+	width: 70%;
+} */
 .section1{
 	margin-bottom: 30px;
 }
